@@ -1,0 +1,50 @@
+---
+id: 58775978
+name: Nightmare's Steelcage
+type: Spell Card
+frameType: spell
+desc: This card remains on the field for 2 of your opponent's turns. While this card
+  is face-up on the field, no monsters can attack.
+race: Normal
+card_sets:
+- set_name: 'Battle Pack 2: War of the Giants'
+  set_code: BP02-EN148
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.45'
+- set_name: 'Battle Pack 2: War of the Giants'
+  set_code: BP02-EN148
+  set_rarity: Mosaic Rare
+  set_rarity_code: "(MSR)"
+  set_price: '1.45'
+- set_name: Demo Deck 2016
+  set_code: DEM3-EN014
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0.00'
+- set_name: 'Structure Deck: Marik (TCG)'
+  set_code: SDMA-EN021
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.76'
+- set_name: 'Structure Deck: Spellcaster''s Judgment'
+  set_code: SD6-EN031
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.36'
+- set_name: Warriors' Strike Structure Deck
+  set_code: SDWS-EN022
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '2.71'
+card_images:
+- id: 58775978
+  image_url: https://images.ygoprodeck.com/images/cards/58775978.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/58775978.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/58775978.jpg
+card_prices:
+- cardmarket_price: '0.14'
+  tcgplayer_price: '0.23'
+  ebay_price: '1.86'
+  amazon_price: '1.28'
+  coolstuffinc_price: '0.99'
